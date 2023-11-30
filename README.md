@@ -1,1 +1,1 @@
-# Stepik_wait_until_-100
+# Stepik_wait_until_$100
